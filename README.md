@@ -10,3 +10,7 @@ This repository contains my Core Skills practice files.
 
 - `Ctrl+S` saves a file.
 - `Ctrl+F` finds text.
+
+- ## Week 2
+
+This repository is connected to Visual Studio Code.
