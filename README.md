@@ -14,3 +14,7 @@ This repository contains my Core Skills practice files.
 - ## Week 2
 
 This repository is connected to Visual Studio Code.
+
+Week 2
+Source control: Visual Studio Code
+Repository copy: local
